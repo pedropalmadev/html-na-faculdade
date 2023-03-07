@@ -1,0 +1,15 @@
+<html>
+<body>
+<form oninput="x.value=parseInt(a.value)+parseInt(b.value)">
+    
+      <input id="a" type="number" style="width:70px" value="50" /> 
+    + <input id="b" type="number" style="width:70px" value="25" />
+    = <output name="x" for="a b"> </output>
+        
+    <br><br>
+    
+        <button type="submit" value="Testar">Testar</button>
+
+</form>
+</body>
+</html>
