@@ -1,0 +1,23 @@
+<html>
+<body>
+            <dialog style="display:block;width:35%;position:absolute;z-index:1;float:left;
+            margin-left:30%;background-color:yellow;" >
+            <h2>ATENÇÃO</h2>    
+            <p>Aqui uma mensagem de erro de exemplo para o pessoal em treinamento.</p>
+            </dialog>
+            <main>
+                <article>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                    labore et dolore magna aliqua. Hac habitasse platea dictumst quisque sagittis purus sit amet
+                    volutpat. Scelerisque felis imperdiet proin fermentum leo vel orci porta. Scelerisque felis
+                    imperdiet proin fermentum leo. Blandit turpis cursus in hac habitasse platea dictumst. Vitae
+                    aliquet nec ullamcorper sit amet risus nullam eget. Enim blandit volutpat maecenas volutpat
+                    blandit. Sed arcu non odio euismod lacinia at quis. Magna sit amet purus gravida. Pulvinar
+                    pellentesque habitant morbi tristique senectus et netus et malesuada. Odio pellentesque diam
+                    volutpat commodo. Porta lorem mollis aliquam ut porttitor leo a diam sollicitudin. Ornare arcu
+                    dui vivamus arcu felis bibendum.
+                </article>
+
+</main>
+</body>
+</html>
