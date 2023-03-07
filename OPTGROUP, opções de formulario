@@ -1,0 +1,34 @@
+<html>
+<body>
+        <form action="https://jkorpela.fi/cgi-bin/echo.cgi" method="post">
+
+                <label for="carros">Escolha um fabricante:</label>
+                
+                <select name="carros" id="carros">
+                
+                <optgroup label="Carros Suecos">    
+                
+                <option value="volvo">Volvo</option>
+                <option value="saab">Saab</option>
+                
+                </optgroup>
+                
+                <optgroup label="Carros Alemães">
+                
+                <option value="mercedes">Mercedes</option>
+                <option value="opel" selected>Opel</option>
+                <option value="audi">Audi</option>
+                
+                </optgroup>
+                
+                </select>
+                
+                <br><br>
+            
+            <button type="submit" value="Testar">Testar</button>
+        
+        </form>
+
+</form>
+</body>
+</html>
