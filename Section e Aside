@@ -1,0 +1,28 @@
+<html>
+<body>
+<main>
+
+        <aside style="width:20%;float:left;margin-right:15px;background-color:lightgray;">
+            <h4>Epcot Center</h4>
+            <p>O Epcot é um parque temático no Walt Disney World Resort com atrações emocionantes,
+            pavilhões internacionais, fogos de artifício premiados e eventos especiais sazonais.</p>
+        </aside>
+        <div>
+        <section>
+        <h2>Histórico do WWF</h2>
+            <p>O World Wide Fund for Nature (WWF) é uma organização internacional que trabalha em
+            questões relacionadas à conservação, pesquisa e restauração do meio ambiente, anteriormente
+            denominada World Wildlife Fund. O WWF foi fundado em 1961.</p>
+        </section>
+        
+        <section>
+        
+        <h2>Símbolo da WWF</h2>
+        <p>O Panda tornou-se o símbolo da WWF. O conhecido logotipo do panda da WWF originou-se de
+        um panda chamado Chi Chi que foi transferido do Zoológico de Pequim para o Zoológico de Londres no
+        mesmo ano do estabelecimento do WWF.</p>
+        </section>
+        </div>
+</main>
+</body>
+</html>
