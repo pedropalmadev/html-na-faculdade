@@ -1,0 +1,11 @@
+<h1>O elemento NAV</h1>
+    <p>O elemento nav define o agrupamento de um conjunto de links de navegação:</p>
+        <nav style="background-color:lightgray">
+            <a href="https://www.w3schools.com/html/" target="_blank">HTML</a> 
+            <a href="https://www.w3schools.com/css/" target="_blank">CSS</a> 
+            <a href="https://www.w3schools.com/js/" target="_blank">JavaScript</a> 
+            <a href="https://www.w3schools.com/python/" target="_blank">Python</a>
+        </nav>
+    <p> Em outra parte da página:
+<a href="javascript:alert('Fora do NAV');">Outro link.</a>
+</p>
