@@ -1,0 +1,38 @@
+<!DOCTYPE html><html><head></head>
+<body>
+    <main>
+      <article>
+
+        <header>
+
+            <h1>Treinamento USCS</h1>
+            <p><small>Postado por Vinícius</small></p>
+            <p>Passando pelos elementos com significado semântico em HTML.</p>
+        </header>
+
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+            labore et dolore magna aliqua. Hac habitasse platea dictumst quisque sagittis purus sit amet volutpat.
+            Scelerisque felis imperdiet proin fermentum leo vel orci porta. Scelerisque felis imperdiet proin fermentum
+            leo. Blandit turpis cursus in hac habitasse platea dictumst
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+            labore et dolore magna aliqua. Hac habitasse platea dictumst quisque sagittis purus sit amet volutpat.
+            Scelerisque felis imperdiet proin fermentum leo vel orci porta. Scelerisque felis imperdiet proin fermentum
+            leo. Blandit turpis cursus in hac habitasse platea dictumst.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+            labore et dolore magna aliqua. Hac habitasse platea dictumst quisque sagittis purus sit amet volutpat.
+            Scelerisque felis imperdiet proin fermentum leo vel orci porta. Scelerisque felis imperdiet proin fermentum
+            leo. Blandit turpis cursus in hac habitasse platea dictumst.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+            labore et dolore magna aliqua. Hac habitasse platea dictumst quisque sagittis purus sit amet volutpat.
+            Scelerisque felis imperdiet proin fermentum leo vel orci porta. Scelerisque felis imperdiet proin fermentum
+            leo. Blandit turpis cursus in hac habitasse platea dictumst..</p>
+
+        <footer>
+            <h3><small>HTML</small></h3>
+            <p>Material desenvolvido exclusivamente para treinamento de futuros desenvolvedores.</p>
+        </footer>
+
+        </article>
+    </main>
+</body>    
+</html>
