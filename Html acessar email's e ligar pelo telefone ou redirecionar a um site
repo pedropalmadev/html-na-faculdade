@@ -1,0 +1,21 @@
+<p>
+
+   <a href="https://uscs.edu.br/">
+    <img src="uscs.png" alt="USCS" width="10%" />
+  </a>
+  </p>
+  <p>
+    <a href="https://www.w3schools.com" target="_blank">Consulte a W3Schools.</a>
+  </p>
+  <p>
+    <a href="mailto:contato@uscs.edu.br">Nosso contato por e-mail.</a>
+  </p>
+<p>
+<a href="tel:+11999999999">+11 9 9999 9999</a>
+</p>
+
+<p>
+
+<a href="javascript:alert('Olá Mundo!');">Execute um JavaScript</a>
+
+</p>
