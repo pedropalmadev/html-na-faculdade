@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <style>
+        body{
+            background-image: url("A20.jpg");
+            background-repeat: no-repeat;
+            background-position: center top;
+            background-attachment: fixed;
+            background-color: gray;
+            background-size: 100vw;
+            color: rgb(13, 47, 56);
+        }
+    </style>
+    <link rel="stylesheet" href="ex001.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=], initial-scale=1.0">
+    <title>CSS09</title>
+</head>
+<body style="background-color: linen;">
+    <h1 style="color:olive; margin-left: 50px;">CSS Background</h1>
+    <h3>background-position: <i>right top</i>;</h3>
+    <p>
+            A imagem de fundo deste documento foi inserida por CSS, ela não se repete. Sua posição
+            está definida como centro superior (center top).
+    </p>
+    <p style="color: blue;">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem, iste maiores. Ipsum illo incidunt quasi aperiam eum? Debitis rem, nisi tempore fuga unde repudiandae excepturi quibusdam assumenda, corporis sunt error.
+    </p>
+    <br /><br /><br /><br /><br /><br /><br /><br /><br />  
+    <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+    <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+    <br /><br /><br /><br /><br /><br /><br /><br /><br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+
+</body>
+</html>
